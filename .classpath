@@ -22,5 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/Oracle_Home/oepe/plugins/oracle.database.driver_6.6.0.201406180118/ojdbc6.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
